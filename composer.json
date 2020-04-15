@@ -15,7 +15,7 @@
         "ext-gd": "*",
         "php": "7.*",
 
-        "wordpress/wordpress": "*",
+        "wordpress/wordpress": "5.4",
 
         "automattic/batcache": "dev-master",
         "wpackagist-plugin/redis-cache": "~1",
